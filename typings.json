@@ -1,0 +1,10 @@
+{
+  "name": "@istar-eldritch/hapi-redis",
+  "dependencies": {},
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "hapi": "registry:dt/hapi#13.0.0+20160709092105",
+    "node": "registry:dt/node#6.0.0+20160720070758",
+    "redis": "registry:dt/redis#0.12.1+20160619023014"
+  }
+}
